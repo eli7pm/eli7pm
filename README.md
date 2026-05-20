@@ -2,8 +2,8 @@
 
 Support Engineer chimera delivering developer experience on developer-facing platforms.
 
-### Know More About Me
-🌐 [Blog Post — Whipping Up Document Magic](https://www.nutrient.io/blog/whipping-up-document-magic/)
+### Blog Posts
+📃 [Whipping Up Document Magic](https://www.nutrient.io/blog/whipping-up-document-magic/)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli7pm/)
