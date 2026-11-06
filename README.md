@@ -2,6 +2,9 @@
 
 Support Engineer chimera delivering developer experience on developer-facing platforms.
 
+### My site:
+https://eli7pm.me/
+
 ### Blog Posts
 📃 [Whipping Up Document Magic](https://www.nutrient.io/blog/whipping-up-document-magic/)
 
