@@ -7,7 +7,7 @@ https://eli7pm.me/
 
 ### Blog Posts
 * [Whipping Up Document Magic](https://www.nutrient.io/blog/whipping-up-document-magic/)
-* [Invoice Purgatory: How I escaped the monthly click-fest by building my own invoicing tool](https://dev.to/eli7pm/invoice-purgatory-how-i-escaped-the-monthly-click-fest-by-building-my-own-invoicing-tool-4i1bhttps://dev.to/eli7pm/invoice-purgatory-how-i-escaped-the-monthly-click-fest-by-building-my-own-invoicing-tool-4i1b)
+* [Invoice Purgatory: How I escaped the monthly click-fest by building my own invoicing tool](https://dev.to/eli7pm/invoice-purgatory-how-i-escaped-the-monthly-click-fest-by-building-my-own-invoicing-tool-4i1b)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli7pm/)
